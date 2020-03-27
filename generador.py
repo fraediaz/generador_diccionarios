@@ -5,7 +5,6 @@ import random
 numeros     =   '0123456789'
 letras      =   'abcdefghijklmnñopqrstuvwxyz'
 letrasM     =   'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-
 conf        = numeros + letrasM + letras
 
 def combinar(ejemplo, veces=1):
