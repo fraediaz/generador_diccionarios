@@ -1,7 +1,6 @@
 #-*- coding:utf-8 -*-
 #!/usr/bin/python3
 import random
-
 numeros     =   '0123456789'
 letras      =   'abcdefghijklmnñopqrstuvwxyz'
 letrasM     =   'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
